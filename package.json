@@ -1,27 +1,11 @@
 {
   "name": "superagent",
-  "version": "2.0.0-alpha.1",
-  "description": "elegant & feature rich browser / node HTTP with a fluent API",
-  "scripts": {
-    "prepublish": "make all",
-    "test": "make test"
-  },
-  "keywords": [
-    "http",
-    "ajax",
-    "request",
-    "agent"
-  ],
+  "version": "2.0.2",
   "license": "MIT",
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
-  "contributors": [
-    "Kornel Lesiński <kornel@geekhood.net>",
-    "Peter Lyons <pete@peterlyons.com>",
-    "Hunter Loftis <hunter@hunterloftis.com>"
-  ],
+  "author": "Sebastian Otto",
   "repository": {
     "type": "git",
-    "url": "git://github.com/visionmedia/superagent.git"
+    "url": "git://github.com/wemakeweb/superagent.git"
   },
   "dependencies": {
     "qs": "^6.1.0",
